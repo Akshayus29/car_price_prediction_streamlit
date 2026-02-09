@@ -16,6 +16,7 @@ Buying or selling a used car can be daunting due to price uncertainty. This proj
 - **Model:** Random Forest Regressor
 
 ## 📁 Repository Structure
+.
 ├── app.py              # Streamlit web application code
 ├── requirements.txt    # List of required Python packages
 ├── rf_reg_model        # Trained Random Forest model file
